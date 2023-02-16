@@ -1,0 +1,3 @@
+C:/Users/me/CLionProjects/2Y/PA/faq/sample_curl/cmake-build-debug/CMakeFiles/sample_curl.dir
+C:/Users/me/CLionProjects/2Y/PA/faq/sample_curl/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/me/CLionProjects/2Y/PA/faq/sample_curl/cmake-build-debug/CMakeFiles/rebuild_cache.dir

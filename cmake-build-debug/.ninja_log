@@ -1,0 +1,6 @@
+# ninja log v5
+3	799	6975641646299759	CMakeFiles/sample_curl.dir/main.c.obj	489b5e13d3b93a6c
+800	909	6975641647368998	sample_curl.exe	c7bf55094dcb2b81
+1	342	6982583722716601	build.ninja	d917591c6029487b
+4	401	6982583727682849	CMakeFiles/sample_curl.dir/cJSON.c.obj	4e240c0bf5d6f8e1
+401	674	6982583730367120	sample_curl.exe	5d0d79ef094b02c8
